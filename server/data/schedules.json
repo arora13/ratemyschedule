@@ -1,0 +1,119 @@
+[
+  {
+    "id": "uxdfqeto",
+    "title": "Fall 2024 Schedule",
+    "term": "Fall 2024",
+    "events": [
+      {
+        "title": "Introduction to Programming",
+        "day_of_week": 1,
+        "start_time": "09:00",
+        "end_time": "10:30",
+        "location": "CS Building 101"
+      },
+      {
+        "title": "English Composition",
+        "day_of_week": 1,
+        "start_time": "15:00",
+        "end_time": "16:30",
+        "location": "Humanities 150"
+      },
+      {
+        "title": "Calculus II",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "09:30",
+        "location": "Math Building 112"
+      },
+      {
+        "title": "Data Structures & Algorithms",
+        "day_of_week": 3,
+        "start_time": "11:00",
+        "end_time": "12:30",
+        "location": "Engineering Hall 205"
+      }
+    ],
+    "collegeSlug": "sjsu",
+    "major": "electrical engineering",
+    "level": "junior",
+    "authorHandle": "anonymous",
+    "reactions": {
+      "up": 1,
+      "down": 0
+    },
+    "commentsCount": 0,
+    "createdAt": "2025-08-22T04:45:07.434Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ix8mm8ra",
+    "title": "Fresh Test Schedule",
+    "term": "Fall 2024",
+    "events": [
+      {
+        "title": "Computer Science 101",
+        "day_of_week": 1,
+        "start_time": "10:00",
+        "end_time": "11:30",
+        "location": "Tech Building 101"
+      },
+      {
+        "title": "Math 201",
+        "day_of_week": 3,
+        "start_time": "14:00",
+        "end_time": "15:30",
+        "location": "Math Hall 205"
+      }
+    ],
+    "collegeSlug": "asu",
+    "major": "computer science",
+    "level": "sophomore",
+    "authorHandle": "testuser",
+    "reactions": {
+      "up": 1,
+      "down": 0
+    },
+    "commentsCount": 0,
+    "createdAt": "2025-08-22T04:41:01.847Z",
+    "deletedAt": null
+  },
+  {
+    "id": "kgdm74fs",
+    "title": "Fall 2024 Schedule",
+    "term": "Fall 2024",
+    "events": [
+      {
+        "title": "Introduction to Programming",
+        "day_of_week": 1,
+        "start_time": "09:00",
+        "end_time": "10:30",
+        "location": "CS Building 101"
+      },
+      {
+        "title": "Psychology 101",
+        "day_of_week": 3,
+        "start_time": "16:00",
+        "end_time": "17:30",
+        "location": "Social Sciences 220"
+      },
+      {
+        "title": "Computer Systems",
+        "day_of_week": 5,
+        "start_time": "14:00",
+        "end_time": "15:30",
+        "location": "Tech Center 301"
+      }
+    ],
+    "collegeSlug": "asu",
+    "major": "business",
+    "level": "junior",
+    "authorHandle": "anonymous",
+    "reactions": {
+      "up": 2,
+      "down": 0
+    },
+    "commentsCount": 0,
+    "createdAt": "2025-08-22T04:32:08.831Z",
+    "deletedAt": null
+  }
+]
